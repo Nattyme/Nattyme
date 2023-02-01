@@ -6,9 +6,9 @@
 
 👊 Work: sales manager at japanese company;
 
-😤 Study: HTML, CSS, Java-script and that's all for now :D 
+😤 Studing: HTML, CSS, Java-script and that's all for now :D 
 
-📫 How to reach me - follow me ^^,
+📫 How to reach me:  follow me ^^,
 
 <!---
 Nattyme/Nattyme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

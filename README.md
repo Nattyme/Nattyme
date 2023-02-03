@@ -1,8 +1,9 @@
 💁 Hi, I’m Natasha
 
-👌 Interested: reading, plaiong guitar, drawing, listening music, sport.
+👌 Interested: reading, playing guitar, drawing, listening music, sport.
 
 💪 Education: university;
+😎 Superpower: cooking;
 
 👊 Work: sales manager at japanese company;
 

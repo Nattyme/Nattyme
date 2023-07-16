@@ -6,7 +6,7 @@
 
 😎 Superpower: cooking;
 
-👊 Work: sales manager at japanese company;
+👊 Work: b2b manager at japanese company;
 
 😤 Studing: HTML, CSS, Java-script and that's all for now :D 
 

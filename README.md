@@ -8,9 +8,7 @@
 
 👊 Work: b2b manager at japanese company;
 
-😤 Studing: HTML, CSS, Java-script and that's all for now :D 
-
-📫 How to reach me:  ifrance@yandex.ru
+😤 Studing: HTML, CSS, Java-script and that's all for now.
 
 <!---
 Nattyme/Nattyme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,6 @@
-💁 Hi, I’m Natasha
+💁 Hi, I’m Natasha;
 
-👌 Interested: reading, playing guitar, drawing, listening music, sport.
+👌 Interested: reading, playing guitar, drawing, listening music, sport;
 
 💪 Education: university;
 

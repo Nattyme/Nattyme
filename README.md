@@ -8,8 +8,7 @@ You can click the Preview link to take a look at your changes.
 ![I am a beginner in a web developing industry](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nattyme)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nattyme&layout=donut)
 
 
 

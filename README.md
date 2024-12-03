@@ -7,9 +7,9 @@ Hi there 👋, my name is Natasha.
 #
 I study web dev. I know a bit of HTML, CSS, SCSS and PHP.
 #
-Currently I fight with JavaScript. It wins for now, but it's not gonna be too long. I hope...)
+Currently I fight with JavaScript. It wins for now, but it's not gonna be too long. I hope so ...:)
 #
-Feel free to share some tasks with me as your teammate. I'll do my best to support you by doing some routine.
+Feel free to share some tasks with me as your teammate. I'm able to support you by doing some routine. I'll do my best 💪
 #
 See u!
 #

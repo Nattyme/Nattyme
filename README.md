@@ -1,22 +1,28 @@
-<!---
-Nattyme/Nattyme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 👩‍💻 About Me
 
-Hi there 👋, my name is Natasha.
-#
-I study web dev. I know a bit of HTML, CSS, SCSS and PHP.
-#
-Currently I fight with JavaScript. It wins for now, but it's not gonna be too long. I hope so ...:)
-#
-Feel free to share some tasks with me as your teammate. I'm able to support you by doing some routine. I'll do my best 💪
-#
-See u!
-#
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nattyme&layout=donut)
+Hi there 👋 My name is Natasha.  
+I'm a web development learner passionate about building clean and accessible interfaces.  
+Right now I'm focusing on improving my JavaScript skills, with HTML, CSS, SCSS and PHP already under my belt.  
+I'm also exploring the basics of UI/UX design and enjoy making things that are not just functional but user-friendly.
 
+I’m open to collaboration and happy to contribute to projects by taking care of smaller or routine tasks — learning and improving along the way 💪  
+Let’s grow together!
 
+---
 
+### 💡 Skills
 
+- HTML / CSS / SCSS  
+- JavaScript (in progress)
+- React (in progress)
+- PHP (basic)  
+- UI/UX basics (visual hierarchy, layout thinking, Figma)  
+- Git / GitHub  
+- Responsive layout principles  
 
+---
 
+### 📊 GitHub Stats
+![Natasha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nattyme&show_icons=true&theme=radical)
+---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nattyme&layout=compact&theme=radical)

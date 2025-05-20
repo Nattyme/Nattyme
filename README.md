@@ -1,28 +1,36 @@
-### 👩‍💻 About Me
+# Hi there 👋 I'm Natasha
 
-Hi there 👋 My name is Natasha.  
-I'm a web development learner passionate about building clean and accessible interfaces.  
-Right now I'm focusing on improving my JavaScript skills, with HTML, CSS, SCSS and PHP already under my belt.  
-I'm also exploring the basics of UI/UX design and enjoy making things that are not just functional but user-friendly.
-
-I’m open to collaboration and happy to contribute to projects by taking care of smaller or routine tasks — learning and improving along the way 💪  
-Let’s grow together!
+Aspiring front-end developer passionate about clean code and meaningful UI.  
+I have a solid foundation in web development and I'm constantly improving my JavaScript skills (React is already in sight 😉).  
+Happy to join a team or contribute to open-source projects — I enjoy learning through real tasks and collaboration.
 
 ---
 
-### 💡 Skills
-
-- HTML / CSS / SCSS  
-- JavaScript (in progress)
-- React (in progress)
-- PHP (basic)  
-- UI/UX basics (visual hierarchy, layout thinking, Figma)  
-- Git / GitHub  
-- Responsive layout principles  
+### 💻 Tech Stack
+**Languages & Tools:**  
+HTML · CSS · SCSS · JavaScript · PHP · React (basic) · Git · Figma (basic)
 
 ---
 
-### 📊 GitHub Stats
-![Natasha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nattyme&show_icons=true&theme=radical)
+### 🎓 Courses Completed
+
+**🧭 WebCademy.ru (2024):**
+- **Frontend Developer** (Winter 2024): HTML, CSS, adaptive layout, SCSS
+- **PHP Developer** (Summer 2024): Dynamic website with authentication, internet shop with payment and admin panel
+- **JavaScript + React Developer** (Autumn 2024): DOM scripting, event handling, components, MVC
+
 ---
+
+### 📈 GitHub Stats
+
+![Natasha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nattyme&show_icons=true&theme=radical&hide=issues&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nattyme&layout=compact&theme=radical)
+
+---
+
+### ☕ Let's Connect
+
+I'm open to internships, freelance tasks or pair programming to sharpen my skills.  
+Feel free to reach out or assign me some routine — I’ll give it my best 💪
+
+See u!

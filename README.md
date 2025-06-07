@@ -14,7 +14,7 @@ HTML · CSS · SCSS · JavaScript · PHP · React (basic) · Git · Figma (basic
 
 ### 🎓 Courses Completed
 
-**🧭 WebCademy.ru (2024):**
+[**🧭 WebCademy.ru (2024):**](https://webcademy.ru/)
 - **Frontend Developer** (Winter 2024): HTML, CSS, adaptive layout, SCSS
 - **PHP Developer** (Summer 2024): Dynamic website with authentication, internet shop with payment and admin panel
 - **JavaScript + React Developer** (Autumn 2024): DOM scripting, event handling, components, MVC

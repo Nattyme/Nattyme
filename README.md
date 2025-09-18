@@ -21,13 +21,6 @@ HTML · CSS · SCSS · JavaScript · PHP · React (basic) · Git · Figma (basic
 
 ---
 
-### 📈 GitHub Stats
-
-![Natasha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nattyme&show_icons=true&theme=radical&hide=issues&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nattyme&layout=compact&theme=radical)
-
----
-
 ### ☕ Let's Connect
 
 I'm open to internships, freelance tasks or pair programming to sharpen my skills.  

@@ -1,14 +1,14 @@
 # Hi there 👋 I'm Natasha
 
-Aspiring front-end developer passionate about clean code and meaningful UI.  
-I have a solid foundation in web development and I'm constantly improving my JavaScript skills (React is already in sight 😉).  
-Happy to join a team or contribute to open-source projects — I enjoy learning through real tasks and collaboration.
+Aspiring backend developer focused on building well-structured web applications with PHP.
+I enjoy working with data, designing clean architecture, and improving my understanding of server logic and databases.
+Currently deepening my PHP and MySQL skills, learning more about OOP, MVC, and application layers.
 
 ---
 
 ### 💻 Tech Stack
 **Languages & Tools:**  
-HTML · CSS · SCSS · JavaScript · PHP · React (basic) · Git · Figma (basic)
+PHP · MySQL · HTML · CSS · SCSS · JavaScript · React (basic) · Git · Figma (basic)
 
 ---
 

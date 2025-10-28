@@ -8,7 +8,7 @@ Currently deepening my PHP and MySQL skills, learning more about OOP, MVC, and a
 
 ### 💻 Tech Stack
 **Languages & Tools:**  
-PHP · MySQL · HTML · CSS · SCSS · JavaScript · React (basic) · Git · Figma (basic)
+PHP · MySQL · HTML · CSS · JavaScript · Git
 
 ---
 

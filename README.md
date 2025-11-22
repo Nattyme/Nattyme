@@ -3,10 +3,9 @@
 ```yaml
 name: Natasha
 located_in: Russia
-current_job: Aspiring Backend Developer
 education: 
   - "WebCademy (Frontend, PHP, JavaScript+React)" : 2024
-  - "Self-taught" : Constant learning and practical coding
+  - "Self-taught" : Constant learning and practical coding, PHP 8
 
 fields_of_interests:
   - "Backend Development" : Server-side logic and architecture
